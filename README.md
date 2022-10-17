@@ -1,3 +1,3 @@
-# web-platform-jepjru
+# web-sudoku-game
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-jepjru)
+A JavaScript sudoku game
